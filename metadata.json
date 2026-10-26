@@ -1,0 +1,6 @@
+{
+  "name": "Muslim Quran",
+  "description": "Your Daily Connection with the Quran - Digital Al-Qur'an with 114 Surahs, translation, audio murottal, tafsir, global search, bookmarks, auto-scroll, and tilawah progress tracker.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
